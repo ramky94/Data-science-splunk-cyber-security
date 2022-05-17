@@ -5,6 +5,7 @@ Developed the search quires in Splunk for ICAAP & KRI/KPI reports are automated 
 Developed on SIEM logs data developed the SIEM integration log status report & Dashboard for Application servers, network security report monthly
 Worked on Linux, windows user creation & deletion, Firewall user allowed & blocked generated report monthly & developed the Dashboard
 Worked on NTP configured status on all servers application-wise report quarterly.
+
 <img width="497" alt="sb-1" src="https://user-images.githubusercontent.com/52648006/168875895-05e25a49-ec19-4525-b8d2-9158b0fea7e7.png">
 <img width="610" alt="sb-2" src="https://user-images.githubusercontent.com/52648006/168875949-8be60972-1866-438c-a9f6-13071ca67409.png">
 <img width="581" alt="sb-3" src="https://user-images.githubusercontent.com/52648006/168875963-71f56378-77dd-4882-823f-48ffdaad5624.png">
