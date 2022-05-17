@@ -1,6 +1,7 @@
 # Data-science-splunk-cyber-security
 Splunk Dash Board
 Developed the search quires in Splunk for ICAAP & KRI/KPI reports are automated in Splunk and also wrote the search quires for vulnerability related Data.
+
 Developed on SIEM logs data developed the SIEM integration log status report & Dashboard for Application servers, network security report monthly
 Worked on Linux, windows user creation & deletion, Firewall user allowed & blocked generated report monthly & developed the Dashboard
 Worked on NTP configured status on all servers application-wise report quarterly.
