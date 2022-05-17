@@ -15,7 +15,6 @@ Worked on NTP configured status on all servers application-wise report quarterly
 <img width="572" alt="sb-7" src="https://user-images.githubusercontent.com/52648006/168876059-265604f0-424e-486e-bf17-a7adb380f60d.png">
 <img width="578" alt="sb-8" src="https://user-images.githubusercontent.com/52648006/168876081-b98e0981-c792-468e-b50a-b72e519d6b32.png">
 <img width="626" alt="sb-9" src="https://user-images.githubusercontent.com/52648006/168876264-b7d9d75c-1208-4779-87de-2e167d52b759.png">
-
 <img width="567" alt="sb-10" src="https://user-images.githubusercontent.com/52648006/168876284-e6a502f0-3161-4ddb-8a53-f3d9e92b161c.png">
 <img width="574" alt="sb-11" src="https://user-images.githubusercontent.com/52648006/168876302-c0504e21-2ceb-4f5e-933b-5f10d23b3b94.png">
 <img width="607" alt="sb-12" src="https://user-images.githubusercontent.com/52648006/168876329-a3eb5824-4c2b-44e4-9a79-3400c2fc4c6d.png">
